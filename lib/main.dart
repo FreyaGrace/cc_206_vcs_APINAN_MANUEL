@@ -1,3 +1,6 @@
+//Fatima Grace Apinan: "The purpose of our lives is to be happy." — Dalai Lama
+
+
 import 'package:flutter/material.dart';
 
 void main() {
