@@ -1,4 +1,7 @@
 //Fatima Grace Apinan: "The purpose of our lives is to be happy." — Dalai Lama
+//Princes Rose G. Manuel: "He will order his angels to protect you wherever you go." — PSALM 91:11
+
+
 
 
 import 'package:flutter/material.dart';
